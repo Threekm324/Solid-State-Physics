@@ -6,7 +6,7 @@ start\
 __1)晶体：同一个图案，在空间里不断重复。这个重复的单元就是布拉维格子（三维空间中只有14种）。\
   X射线衍射：由于原子的线度很小，可见光的波长相对其线度来说过大，但X射线的波长就与原子间距的尺度相近，从而可以出现衍射现象。\
   (当路程差是波长的整数倍时出现亮点）\
-  <img width="620" height="758" alt="image" src="https://github.com/user-attachments/assets/f1746598-fd12-4909-bd7e-8436016f6069" />
+  <img width="639" height="363" alt="屏幕截图 2026-11-17 190010" src="https://github.com/user-attachments/assets/45fe4bd0-b7eb-4357-bd6f-670820009cc7" />
 \
   正格子与倒格子:\
   <img width="641" height="362" alt="image" src="https://github.com/user-attachments/assets/0f2ae5b1-97a2-4aa0-bf71-cb3a6427f446" />
@@ -36,3 +36,4 @@ __2)声子：“每个振动模式的能量只能一份一份，分立的离散�
 __3)电子：费米子\
 <img width="636" height="413" alt="image" src="https://github.com/user-attachments/assets/f33a6be0-e0e3-439d-ba7c-65f346d69561" />
 <img width="642" height="384" alt="image" src="https://github.com/user-attachments/assets/f644fb0b-6d2a-4fd7-98e4-89649af9b2eb" />
+电子波函数：平面波函数*跟着晶格起伏的周期函数\
